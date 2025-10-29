@@ -2,21 +2,21 @@ const reviews = [
     {
         name: 'Susan Smith',
         job: 'Web Developer',
-        img: '/Assets/Susan-Smith.jpeg',
+        img: './Assets/Susan-Smith.jpeg',
         text: '“Hi, I’m Susan Smith, a passionate web developer who loves turning creative ideas into functional websites. I enjoy writing clean, efficient code and constantly learning new technologies to improve user experience and design.”'
     },
 
     {
         name: 'Diana',
         job: 'Web Designer',
-        img: '/Assets/Diana.jpeg',
+        img: './Assets/Diana.jpeg',
         text: '“Hi, I’m Diana, a creative web designer who loves blending colors, layouts, and typography to craft unique websites. I focus on creating designs that are both visually appealing and easy to use for everyone.”'
     },
 
     {
         name: 'Jon',
         job: 'Web Developer',
-        img: '/Assets/Jon.jpeg',
+        img: './Assets/Jon.jpeg',
         text: '“Hi, I’m Jon, a dedicated web developer who enjoys building modern, responsive websites. I love solving coding challenges and turning ideas into real, functional projects that provide a great user experience.”'
     }
 ];
