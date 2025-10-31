@@ -26,8 +26,8 @@ title.textContent = 'Our Reviews';
 title.style.margin = '0 auto';
 title.style.display = 'flex';
 title.style.justifyContent = 'center';
-title.style.marginTop = '20vh';
-title.style.fontSize = '3vw';
+title.style.marginTop = '10vh';
+title.style.fontSize = '4.5vw';
 document.body.appendChild(title);
 
 const underLine = document.createElement('div');
@@ -45,7 +45,7 @@ let currentItem = 0;
 
 const container = document.createElement('div');
 container.style.width = '40vw';
-container.style.margin = '100px auto';
+container.style.margin = '30px auto';
 container.style.padding = '20px';
 container.style.textAlign = 'center';
 container.style.borderRadius = '10px';
